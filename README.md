@@ -9,7 +9,7 @@ Attribution:
 - Please support the above artist.
 
 ## Note
-- Copilot AI was used to assist with most of the Phaser 2 -> Phaser 3.90 porting and refinement process.
+- GitHub Copilot Pro AI was used to assist with most of the Phaser 2 -> Phaser 3.90 porting and refinement process.
 
 
 ## Phaser Version
