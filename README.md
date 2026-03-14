@@ -6,8 +6,11 @@ Attribution:
 - Original Phaser 2 prototype art and code by Ansimuz: https://ansimuz.itch.io
 - Music by Pascal Belisle.
 - Fonts by Somepx.
-- Copilit AI was used to assist with parts of the Phaser 2 -> Phaser 3.90 porting and refinement process.
-- Please support the artist.
+- Please support the above artist.
+
+## Note
+- Copilot AI was used to assist with most of the Phaser 2 -> Phaser 3.90 porting and refinement process.
+
 
 ## Phaser Version
 
