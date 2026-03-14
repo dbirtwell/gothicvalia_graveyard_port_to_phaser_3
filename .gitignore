@@ -17,6 +17,7 @@ node_modules/
 
 # Local tooling/cache
 .qodo/
+private.md
 
 # Temporary files
 *.tmp
